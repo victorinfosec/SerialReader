@@ -1,6 +1,6 @@
 # Serial Reader
 Serial Reader est une application réalisée en Python avec le theme Tkinter [sv_ttk](https://github.com/rdbende/Sun-Valley-ttk-theme)
-
+Cette application permet d'intéragir avec un port série par le biais d'une interface graphique.
 ### Utilisation
 ```bash
 python3 gui.py
